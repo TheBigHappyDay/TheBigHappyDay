@@ -4,7 +4,7 @@
 <a href="https://github.com/TheBigHappyDay/convoychat">
   <img height=150 display="flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheBigHappyDay&layout=compact&langs_count=8&card_width=320&theme=transparent&borer_color=false" />
 </a>
- <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/687qS11pXwjCM">
+ <img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/687qS11pXwjCM](https://giphy.com/embed/687qS11pXwjCM)">
 
 <!--
 **TheBigHappyDay/TheBigHappyDay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
