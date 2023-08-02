@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBigHappyDay&theme=swift_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBigHappyDay)](https://github.com/TheBigHappyDay/github-readme-stats)
 <!--
