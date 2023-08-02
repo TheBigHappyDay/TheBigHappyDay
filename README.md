@@ -1,4 +1,4 @@
-<div display="center">
+<div margin: 25px 50px 75px 100px>
   <a href="https://github.com/TheBigHappyDay/github-readme-stats">
     <img height=150 display="flex" src="https://github-readme-stats.vercel.app/api?username=TheBigHappyDay&theme=transparent&border_color=00000000&rank_icon=github" />
   </a>
